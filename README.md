@@ -1,4 +1,4 @@
-# Technical test - XL Solutions 
+# Technical test
 
 This test was implemented using NodeJS to the backend and the [VueJS](https://vuejs.org/) with [Quasar Framework](http://quasar-framework.org/) to the frontend .
 If you want to know more about the proposal of the test using NodeJS, access:
